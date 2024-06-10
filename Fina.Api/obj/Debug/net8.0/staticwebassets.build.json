@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zQiaHgu/l93G3fTEPuvh1C3fbQJgVZ+JRctKHiR9Mns=",
+  "Hash": "ShW3awp1AX5ZMHhP5B5eZNOdg5Zc+etoFsgjjCAc5so=",
   "Source": "Fina.Api",
   "BasePath": "_content/Fina.Api",
   "Mode": "Default",
@@ -83,7 +83,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.0\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -102,15 +102,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.0\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.0.cxlw0t8dh4.js",
+      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.5.s8w2jdd9zb.js",
       "SourceId": "Fina.Web",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.0.cxlw0t8dh4.js",
+      "RelativePath": "_framework/dotnet.native.8.0.5.s8w2jdd9zb.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -121,7 +121,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.0\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -140,15 +140,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.0\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.0.veqqj9hyfy.js",
+      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.5.2lubtm70fi.js",
       "SourceId": "Fina.Web",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.0.veqqj9hyfy.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.5.2lubtm70fi.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -159,7 +159,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.0\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -178,7 +178,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.0\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Fina.Web.pdb",
@@ -235,7 +235,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.0\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -254,7 +254,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.0\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -273,7 +273,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.0\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\eduar\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -3924,25 +3924,6 @@
       "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.wasm"
     },
     {
-      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\07gsfdmfw7.gz",
-      "SourceId": "Fina.Web",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
-    },
-    {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\0uv090h587.gz",
       "SourceId": "Fina.Web",
       "SourceType": "Project",
@@ -4074,6 +4055,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.FileSystemGlobbing.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\17ftchsisl.gz",
+      "SourceId": "Fina.Web",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\1clir7suhf.gz",
@@ -4209,6 +4209,25 @@
       "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Security.Claims.wasm"
     },
     {
+      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\2lubtm70fi.gz",
+      "SourceId": "Fina.Web",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.5.2lubtm70fi.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.5.2lubtm70fi.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.5.2lubtm70fi.js"
+    },
+    {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\36njsy4kxq.gz",
       "SourceId": "Fina.Web",
       "SourceType": "Project",
@@ -4226,25 +4245,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ObjectModel.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\38p111sr5l.gz",
-      "SourceId": "Fina.Web",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\3j90bj5bcl.gz",
@@ -4798,6 +4798,25 @@
       "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.ReaderWriter.wasm"
     },
     {
+      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\94mjln8lij.gz",
+      "SourceId": "Fina.Web",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
+    },
+    {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\95gnqq93o4.gz",
       "SourceId": "Fina.Web",
       "SourceType": "Project",
@@ -5214,25 +5233,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\cxlw0t8dh4.gz",
-      "SourceId": "Fina.Web",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.0.cxlw0t8dh4.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.0.cxlw0t8dh4.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.0.cxlw0t8dh4.js"
     },
     {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\cypjc08tn5.gz",
@@ -6375,25 +6375,6 @@
       "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.CompilerServices.VisualC.wasm"
     },
     {
-      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\nipf13fic5.gz",
-      "SourceId": "Fina.Web",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
-    },
-    {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\nnsrfdg9cm.gz",
       "SourceId": "Fina.Web",
       "SourceType": "Project",
@@ -6584,25 +6565,6 @@
       "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Http.wasm"
     },
     {
-      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\olus4ftip8.gz",
-      "SourceId": "Fina.Web",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
-    },
-    {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\onskavkko3.gz",
       "SourceId": "Fina.Web",
       "SourceType": "Project",
@@ -6658,6 +6620,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.MemoryMappedFiles.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\p1zybqi9ag.gz",
+      "SourceId": "Fina.Web",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\p44inldsh1.gz",
@@ -6793,25 +6774,6 @@
       "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Quic.wasm"
     },
     {
-      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\qiz8hk58fm.gz",
-      "SourceId": "Fina.Web",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
-    },
-    {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\qj9anneqdj.gz",
       "SourceId": "Fina.Web",
       "SourceType": "Project",
@@ -6848,6 +6810,44 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.Contracts.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\qw61sgc5bv.gz",
+      "SourceId": "Fina.Web",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\qz4eljvp72.gz",
+      "SourceId": "Fina.Web",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\r1hy88kt2r.gz",
@@ -6983,6 +6983,25 @@
       "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.EventBasedAsync.wasm"
     },
     {
+      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\s8w2jdd9zb.gz",
+      "SourceId": "Fina.Web",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.5.s8w2jdd9zb.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.5.s8w2jdd9zb.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.5.s8w2jdd9zb.js"
+    },
+    {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\sfawy3ymre.gz",
       "SourceId": "Fina.Web",
       "SourceType": "Project",
@@ -7116,25 +7135,6 @@
       "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Transactions.Local.wasm"
     },
     {
-      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\txl7ec0iz7.gz",
-      "SourceId": "Fina.Web",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
-    },
-    {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\tzuot3igyg.gz",
       "SourceId": "Fina.Web",
       "SourceType": "Project",
@@ -7249,25 +7249,6 @@
       "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Thread.wasm"
     },
     {
-      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\uzylv4gc0i.gz",
-      "SourceId": "Fina.Web",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
-    },
-    {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\vc8jm78zb4.gz",
       "SourceId": "Fina.Web",
       "SourceType": "Project",
@@ -7285,25 +7266,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Dynamic.Runtime.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\veqqj9hyfy.gz",
-      "SourceId": "Fina.Web",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.0.veqqj9hyfy.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.0.veqqj9hyfy.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.0.veqqj9hyfy.js"
     },
     {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\vke7ec9ynk.gz",
@@ -7342,6 +7304,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ServiceProcess.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\vspr271ax8.gz",
+      "SourceId": "Fina.Web",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\w1js64d1xt.gz",
@@ -7437,6 +7418,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.IsolatedStorage.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\wypz1y3y3k.gz",
+      "SourceId": "Fina.Web",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\eduar\\source\\repos\\Cursos\\CursoBalta\\Jornada\\Fina.Web\\Fina.Web\\obj\\Debug\\net8.0\\compressed\\wz3ktfe0ks.gz",
